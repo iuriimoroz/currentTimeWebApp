@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#current-time-container {
+    text-align: center;
+}
+
+#current-time {
+    font-size: 5em; /* Adjust the font size as needed */
+    color: #ff5733; /* Adjust the text color as needed */
+}
+
+#current-time-label {
+    font-size: 5em; /* Adjust the font size as needed */
+    color: #333; /* Adjust the text color as needed */
+}
