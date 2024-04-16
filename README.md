@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/current-time-webpage.git
+   git clone https://github.com/iuriimoroz/current-time-webpage.git
    ```
 
 2. Navigate to the project directory:
